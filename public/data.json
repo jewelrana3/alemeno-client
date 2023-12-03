@@ -1,0 +1,38 @@
+[
+    {
+        "_id":1,
+        "name":"juyel",
+        "instructor":"john doe",
+        "category":"ball",
+        "image":"https://i.ibb.co/tYwqGSp/download-3.jpg",
+        "location": "India",
+        "shedule":"programming",
+        "description":"programming is harder",
+        "course":".Net",
+        "enroll":19
+    },
+    {
+        "_id":2,
+        "name":"juyel",
+        "instructor":"john doe",
+        "category":"ball",
+        "image":"https://i.ibb.co/Xy15vD3/images-4.jpg",
+        "location": "Nepal",
+        "shedule":"programming",
+        "description":"programming is harder",
+        "course":".Net",
+        "enroll":22
+    },
+    {
+        "_id":3,
+        "name":"juyel",
+        "instructor":"john doe",
+        "category":"ball",
+        "image":"https://i.ibb.co/Yhp0g3W/images-1.jpg",
+        "location": "USA",
+        "shedule":"programming",
+        "description":"programming is harder",
+        "course":".Net",
+        "enroll":33
+    }
+]
